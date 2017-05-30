@@ -57,6 +57,10 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         console.log(this.title + " is ready!");
         this.run = function () { return __awaiter(_this, void 0, void 0, function () {
             return __generator(this, function (_a) {
+                /**
+                 * Insert your Outlook code here
+                 */
+                console.log("Run has been clicked");
                 return [2 /*return*/];
             });
         }); };
