@@ -20,7 +20,7 @@
    * Home Controller
    */
   function HomeController() {
-    this.title = 'Home';
+    this.title = 'Home 2';
     console.log(`${this.title} is ready!`);
 
     this.run = async () => {
@@ -29,7 +29,7 @@
       /**
        * Insert your Outlook code here
        */
-      console.log("Run has been clicked 5");
+       console.log("Run has been clicked 2");
     }
   }
 
