@@ -29,7 +29,7 @@
       /**
        * Insert your Outlook code here
        */
-      console.log("Run has been clicked");
+      console.log("Run has been clicked ...");
     }
   }
 
